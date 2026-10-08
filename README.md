@@ -2,7 +2,7 @@
 
 <img src="assets/header.gif" width="100%" alt="Manikanta Potnuru, full stack developer in Hyderabad. Analytica, 2023 to present. Inflolabs intern on Revidd, 2022 to 2023. B.Tech in Computer Science at GMR Institute of Technology, 2019 to 2023." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=20&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=720&height=40&lines=React%2C+Next.js%2C+and+TypeScript;Spring+Boot%2C+GraphQL%2C+and+Node.js;Interfaces%2C+APIs%2C+and+systems+that+ship" alt="Typing line: React, Next.js, and TypeScript. Spring Boot, GraphQL, and Node.js." />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=520&height=36&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Spring+Boot+%C2%B7+GraphQL+%C2%B7+Node.js;Interfaces+and+APIs+that+ship" width="70%" alt="Typing line: React, Next.js, and TypeScript. Spring Boot, GraphQL, and Node.js." />
 
 [manikanta.net](https://manikanta.net) · [LinkedIn](https://www.linkedin.com/in/manikantapotnuru/) · [X](https://x.com/manikanta9176) · [Email](mailto:manikantapotnuru9176@gmail.com)
 
