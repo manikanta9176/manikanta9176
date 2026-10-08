@@ -4,43 +4,68 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=F4F4F5&center=true&vCenter=true&width=760&height=42&lines=Full+stack+developer;Based+in+Hyderabad;React+%C2%B7+Next.js+%C2%B7+TypeScript;Analytica+Enterprise+Solutions">
-  <img alt="Full stack developer, Hyderabad, React, Next.js, TypeScript, Analytica" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=24292F&center=true&vCenter=true&width=760&height=42&lines=Full+stack+developer;Based+in+Hyderabad;React+%C2%B7+Next.js+%C2%B7+TypeScript;Analytica+Enterprise+Solutions" width="80%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.gif">
+  <img alt="Full stack developer. Based in Hyderabad. React, Next.js, TypeScript. Analytica Enterprise Solutions." src="assets/typing-light.gif" width="100%">
 </picture>
 
 I build product interfaces with React, Next.js, and TypeScript, and the APIs behind them with Node.js, Spring Boot, and GraphQL. I work at Analytica Enterprise Solutions in Hyderabad. From November 2022 to March 2023 I interned at Inflolabs on the Revidd platform.
 
-[manikanta.net](https://manikanta.net) · [LinkedIn](https://www.linkedin.com/in/manikantapotnuru/) · [X](https://x.com/manikanta9176) · [Email](mailto:manikantapotnuru9176@gmail.com)
-
-### Featured projects
+### Featured
 
 <p align="center">
-  <a href="https://jev-dino-runner.run.dflow.sh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta9176&repo=jev-dino-runner&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=f0f6fc&text_color=8b949e&description_lines_count=2" alt="Jev dino runner"></a>
-  <a href="https://manikanta.net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta9176&repo=portfolio&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=f0f6fc&text_color=8b949e&description_lines_count=2" alt="Portfolio"></a>
+  <a href="https://jev-dino-runner.run.dflow.sh">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dino-dark.png">
+      <img alt="Jev dino runner. A decision model chooses jump, duck, or run." src="assets/dino-light.png" width="48%">
+    </picture>
+  </a>
+  <a href="https://manikanta.net">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.png">
+      <img alt="Portfolio. React, Next.js, and TypeScript." src="assets/portfolio-light.png" width="48%">
+    </picture>
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/manikanta9176/traffic-sign-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta9176&repo=traffic-sign-detection&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=f0f6fc&text_color=8b949e&description_lines_count=2" alt="Traffic sign detection"></a>
+  <a href="https://github.com/manikanta9176/traffic-sign-detection">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/signs-dark.png">
+      <img alt="Traffic signs. A custom CNN for roadside signs." src="assets/signs-light.png" width="48%">
+    </picture>
+  </a>
 </p>
 
-**[Jev dino runner](https://jev-dino-runner.run.dflow.sh)** — a decision model chooses jump, duck, or run. [Source](https://github.com/manikanta9176/jev-dino-runner)
+**[Jev dino runner](https://jev-dino-runner.run.dflow.sh)** — play the live build, or read the [source](https://github.com/manikanta9176/jev-dino-runner).
 
-**[Portfolio](https://manikanta.net)** — the public site, in React, Next.js, and TypeScript. [Source](https://github.com/manikanta9176/portfolio)
+**[Portfolio](https://manikanta.net)** — [source](https://github.com/manikanta9176/portfolio).
 
-**[Traffic-sign detection](https://github.com/manikanta9176/traffic-sign-detection)** — a custom CNN. Related academic work: disease classification with an SVM, drug recommendation from review sentiment, and a term paper on fake-profile detection.
+**[Traffic-sign detection](https://github.com/manikanta9176/traffic-sign-detection)** — a custom CNN. The same period includes disease classification with an SVM, drug recommendation from review sentiment, and a term paper on fake-profile detection.
+
+### Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
+  <img alt="React, Next.js, TypeScript, Node.js, GraphQL, Spring Boot, Python, SQL" src="assets/stack-light.png" width="100%">
+</picture>
+
+Also Strapi, Hasura, Tailwind, Redux, PostgreSQL, MongoDB, and Java. CodeChef peak rating **1551**. Fourth place in the ACM GMRIT monthly Codethon, 2021.
 
 ### Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikanta9176&show_icons=true&hide=stars&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=f0f6fc&text_color=c9d1d9&custom_title=This%20year" alt="Past year: 618 commits, 287 pull requests, 324 issues. Rank B.">
-  <img src="https://streak-stats.demolab.com/?user=manikanta9176&hide_border=true&background=0D1117&ring=F0F6FC&fire=F0F6FC&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="About 8,473 contributions since August 2022. Longest streak 20 days.">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta9176&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&custom_title=Languages&exclude_repo=pin-hcms,contentql,ContentQL-html,dflow-builder-commands-buildpacks-test,dflow-builder-commands-dockerfile-test,dflow-builder-commands-railpack-test,wetty" alt="Languages, excluding test and clone repositories.">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.png">
+  <img alt="2,308 commits, 622 in the past year, 287 pull requests, 324 issues, rank B." src="assets/stats-light.png" width="100%">
+</picture>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manikanta9176/manikanta9176/output/snake.gif" alt="Snake animation moving across the GitHub contribution graph">
 </p>
 
-Open to full-stack product work, React and Next.js builds, and teams that care how the product feels and how it ships.
+### Connect
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/connect-dark.png">
+  <img alt="Let's build. Hyderabad." src="assets/connect-light.png" width="100%">
+</picture>
+
+[manikanta.net](https://manikanta.net) · [LinkedIn](https://www.linkedin.com/in/manikantapotnuru/) · [X](https://x.com/manikanta9176) · [Email](mailto:manikantapotnuru9176@gmail.com)
