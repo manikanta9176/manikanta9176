@@ -33,18 +33,24 @@ Also C and C++. Coursework in data structures, object-oriented programming, and 
 
 ## GitHub
 
-<div align="center">
-
+<p align="center">
 <img src="assets/stats.png" width="100%" alt="2,308 commits, 618 in the past year, 287 pull requests, 324 issues, rank B." />
+</p>
 
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=manikanta9176&hide_border=true&background=0D1117&ring=F0F6FC&fire=F0F6FC&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="Contribution streak since August 2022. About 8,473 contributions, current streak 3 days, longest streak 20 days." />
+</p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta9176&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&custom_title=Languages&exclude_repo=pin-hcms,contentql,ContentQL-html,dflow-builder-commands-buildpacks-test,dflow-builder-commands-dockerfile-test,dflow-builder-commands-railpack-test,wetty" alt="Languages across public repositories, excluding test and clone repos." />
+</p>
 
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manikanta9176&theme=github_dark&utcOffset=5.5" alt="Commit times in India Standard Time." />
+</p>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/manikanta9176/manikanta9176/output/snake.gif" alt="Snake animation moving across the GitHub contribution graph" />
-
-</div>
+</p>
 
 Open to full-stack product work, React and Next.js builds, and teams that care how the product feels and how it ships.
