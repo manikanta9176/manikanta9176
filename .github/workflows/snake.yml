@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.gif?color_snake=67e8f9&color_dots=#061018,#155e75,#0e7490,#22d3ee,#a5f3fc&color_background=#061018
+            dist/snake.gif?color_snake=ffffff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_background=#0d1117
 
       - name: publish snake gif
         uses: crazy-max/ghaction-github-pages@v5
