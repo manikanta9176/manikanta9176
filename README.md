@@ -1,86 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061018,55:0e7490,100:22d3ee&height=200&section=header&text=Manikanta%20Potnuru&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Hyderabad%20%C2%B7%20Full-stack%20product%20engineer&descAlignY=54&descAlign=50&descSize=16" width="100%" alt="Animated header for Manikanta Potnuru" />
+<img src="assets/hero.gif" width="100%" alt="Manikanta Potnuru, senior full stack developer in Hyderabad" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=780&height=50&lines=Senior+Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;GraphQL+%C2%B7+CMS+%C2%B7+APIs;Deployment-ready+systems" alt="Typing animation of roles and stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=2600&pause=800&color=D6FF4A&center=true&vCenter=true&width=860&height=48&lines=Full+Stack+Developer+at+Analytica;React+%C2%B7+Next.js+%C2%B7+TypeScript;Spring+Boot+%C2%B7+GraphQL+%C2%B7+APIs;Open+to+product+engineering" alt="Typing line of role and stack" />
 
-**Fast interfaces, reliable backends, and systems that are ready to ship.**
+<img src="assets/marquee.gif" width="100%" alt="Scrolling list of React, Next.js, TypeScript, JavaScript, Node.js, GraphQL, Spring Boot, Java, Python, SQL, PostgreSQL, MongoDB, Tailwind, and Redux" />
 
-[manikanta.net](https://manikanta.net) · [LinkedIn](https://www.linkedin.com/in/manikantapotnuru/) · [Email](mailto:manikantapotnuru9176@gmail.com)
+[manikanta.net](https://manikanta.net) · [LinkedIn](https://www.linkedin.com/in/manikantapotnuru/) · [X](https://x.com/manikanta9176) · [Email](mailto:manikantapotnuru9176@gmail.com)
 
 </div>
 
 ## About
 
-I am Manikanta Potnuru, a full-stack product engineer in Hyderabad. I work across React and Next.js interfaces, the APIs and CMS layers behind them, and the path from a prototype to a deployment.
+I am Manikanta Potnuru, a full stack developer in Hyderabad. I build product interfaces with React, Next.js, and TypeScript, and the APIs behind them with Node.js, Spring Boot, and GraphQL.
 
-The public trail runs through ContentQL and headless CMS product surfaces, full-stack delivery at Analytica Enterprise Solutions, and an earlier internship at Revidd / Inflolabs on Spring Boot and GraphQL. I studied computer science at GMR Institute of Technology. CodeChef peak rating: **1551**.
+I work at Analytica Enterprise Solutions, across UI, web platforms, and deployment-ready product work. From November 2022 to March 2023 I interned at Inflolabs on the Revidd platform: Spring Boot, MongoDB, GraphQL, scalable APIs, and backend bugs. I earned a B.Tech in Computer Science and Engineering from GMR Institute of Technology, Rajam (2019–2023).
 
-## Now
+CodeChef peak rating **1551**. Fourth place in the ACM GMRIT monthly Codethon, 2021.
 
-- **[Jev dino runner](https://github.com/manikanta9176/jev-dino-runner)** — a dinosaur runner where [Jev](https://typesafe.ai/) chooses jump, duck, or run from the game state and a short physics forecast. The browser never sees the API key. [Play it](https://jev-dino-runner.run.dflow.sh).
-- **[dFlow builder commands](https://github.com/manikanta9176/dflow-builder-commands-buildpacks-test)** — focused repos that check buildpack, [Dockerfile](https://github.com/manikanta9176/dflow-builder-commands-dockerfile-test), and [Railpack](https://github.com/manikanta9176/dflow-builder-commands-railpack-test) command paths.
-- **[Portfolio](https://github.com/manikanta9176/portfolio)** — Next.js 16, React 19, and Tailwind CSS v4. Dark, precise, and mostly server-rendered. [manikanta.net](https://manikanta.net)
+## Work
 
-## Selected work
+<table>
+<tr>
+<td width="50%">
+<a href="https://manikanta.net"><img src="assets/card-portfolio.png" width="100%" alt="Portfolio. Editorial site in React, Next.js, and TypeScript." /></a>
+</td>
+<td width="50%">
+<a href="https://jev-dino-runner.run.dflow.sh"><img src="assets/card-dino.png" width="100%" alt="Jev dino runner. A decision model chooses jump, duck, or run." /></a>
+</td>
+</tr>
+</table>
 
-| Project | What it is | Links |
+<div align="center">
+
+<a href="https://github.com/manikanta9176/traffic-sign-detection"><img src="assets/card-ml.png" width="78%" alt="Academic machine learning: traffic-sign detection, disease classification, drug recommendation, and fake-profile research." /></a>
+
+</div>
+
+**Portfolio.** The public site at [manikanta.net](https://manikanta.net). [Source](https://github.com/manikanta9176/portfolio).
+
+**Jev dino runner.** The browser draws the game. A decision model picks jump, duck, or run from the current state and a short physics forecast, and the API key stays on the server. [Play](https://jev-dino-runner.run.dflow.sh) · [Source](https://github.com/manikanta9176/jev-dino-runner)
+
+**Academic ML.** [Traffic-sign detection](https://github.com/manikanta9176/traffic-sign-detection) uses a custom CNN. The same period includes a disease classifier built with an SVM, a drug recommendation project that reads review sentiment, and a term paper on fake-profile detection.
+
+## Journey
+
+<div align="center">
+
+<img src="assets/journey.png" width="100%" alt="2023 to present, Full Stack Developer at Analytica Enterprise Solutions, Hyderabad. November 2022 to March 2023, software engineering intern at Inflolabs on Revidd, Visakhapatnam. 2019 to 2023, B.Tech in Computer Science at GMR Institute of Technology, Rajam." />
+
+</div>
+
+| When | Role | Where |
 | --- | --- | --- |
-| Jev dino runner | TypeScript game plus a decision-model policy. The live page streams frames from a local server. | [Code](https://github.com/manikanta9176/jev-dino-runner) · [Live](https://jev-dino-runner.run.dflow.sh) |
-| Portfolio | Product story for this profile: identity, craft, journey, selected proof, and contact. | [Code](https://github.com/manikanta9176/portfolio) · [Site](https://manikanta.net) |
-| ContentQL | CMS-backed product frontend in TypeScript. | [Code](https://github.com/manikanta9176/contentql) · [Preview](https://contentql-alpha.vercel.app) |
-| pin-hcms | Larger TypeScript and SCSS CMS surface, with a Dockerfile. | [Code](https://github.com/manikanta9176/pin-hcms) |
-| Traffic sign detection | Custom CNN project in Python. | [Code](https://github.com/manikanta9176/traffic-sign-detection) |
-| Data-backed prototypes | Supabase, Convex, and Strapi apps: tables, todos, and API-connected UI. | [Supabase tables](https://github.com/manikanta9176/supabase-tables) · [Convex](https://github.com/manikanta9176/todo-using-convex) · [Strapi](https://github.com/manikanta9176/todo-using-strapi) |
-
-<details>
-<summary>Earlier interface experiments</summary>
-
-<br />
-
-[Spotify search](https://spotify-search-gold.vercel.app) · [GitHub search](https://github-search-mauve-eight.vercel.app) · [Memory game](https://memory-game-lilac-ten.vercel.app) · [Orders board](https://orders-dnd.vercel.app) · [Weather](https://weather-by-city-name.vercel.app) · [Supabase todo](https://todo-using-supabase.vercel.app) · [Previous portfolio](https://my-personal-portfolio-orpin.vercel.app)
-
-</details>
+| 2023 – present | Full Stack Developer | Analytica Enterprise Solutions, Hyderabad |
+| Nov 2022 – Mar 2023 | Software Engineering Intern | Inflolabs · Revidd, Visakhapatnam |
+| 2019 – 2023 | B.Tech, Computer Science and Engineering | GMR Institute of Technology, Rajam |
 
 ## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,nodejs,graphql,java,spring,python,postgres,mongodb,mysql,firebase,supabase,docker,git,github,vercel&perline=11" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Redux, HTML, CSS, Node.js, GraphQL, Java, Spring, Python, PostgreSQL, MongoDB, MySQL, Firebase, Supabase, Docker, Git, GitHub, Vercel" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,nodejs,graphql,java,spring,python,mysql,postgres,mongodb,firebase,supabase,git,github&perline=10" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Redux, Node.js, GraphQL, Java, Spring, Python, MySQL, PostgreSQL, MongoDB, Firebase, Supabase, Git, GitHub" />
 
 </div>
 
-Also in the work: Strapi, Hasura, Payload CMS, Convex, Railway, buildpacks, and Railpack.
+Also in the work: Strapi, Hasura, Chakra UI, C, and C++. Core coursework covered data structures, object-oriented programming, and databases.
+
+Courses I finished: Data Science in Python (University of Michigan, Coursera), Data Structures and Algorithms using Java (Infosys Springboard), Introduction to Programming using Python (Microsoft Technology Associate), and GraphQL API with Java Spring Boot (Udemy).
 
 ## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manikanta9176&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0b1220&title_color=67e8f9&icon_color=22d3ee&text_color=cbd5e1&custom_title=Activity" alt="GitHub activity stats for manikanta9176" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta9176&layout=donut&langs_count=6&hide_border=true&bg_color=0b1220&title_color=67e8f9&text_color=cbd5e1&custom_title=Languages" alt="Most used languages on GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=manikanta9176&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0c0c0b&title_color=d6ff4a&icon_color=d6ff4a&text_color=f6f3ec&custom_title=Activity" alt="GitHub activity for manikanta9176" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta9176&layout=donut&langs_count=6&hide_border=true&bg_color=0c0c0b&title_color=d6ff4a&text_color=f6f3ec&custom_title=Languages" alt="Languages on GitHub" />
 
-<img src="https://streak-stats.demolab.com/?user=manikanta9176&hide_border=true&background=0B1220&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=E2E8F0" alt="GitHub contribution streak for manikanta9176" />
+<img src="https://streak-stats.demolab.com/?user=manikanta9176&hide_border=true&background=0C0C0B&ring=D6FF4A&fire=D6FF4A&currStreakLabel=D6FF4A&sideLabels=A8A399&dates=5C5850&currStreakNum=F6F3EC&sideNums=F6F3EC" alt="Contribution streak for manikanta9176" />
 
-</div>
-
-## Journey
-
-| Period | Role | Place |
-| --- | --- | --- |
-| 2023 – present | Full Stack Developer | Analytica Enterprise Solutions, Hyderabad |
-| 2022 – 2023 | Software Engineer Intern | Revidd / Inflolabs, Visakhapatnam |
-| 2019 – 2023 | B.Tech, Computer Science and Engineering | GMR Institute of Technology, Rajam |
-
-GitHub also lists [ContentQL](https://github.com/contentql). Account opened August 2022.
-
-## Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manikanta9176/manikanta9176/output/snake.gif" alt="Snake animation eating through the GitHub contribution graph" />
-
-A snake crosses the contribution graph. It refreshes on a schedule from this repository.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:061018&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer wave" />
+<img src="https://raw.githubusercontent.com/manikanta9176/manikanta9176/output/snake.gif" alt="Snake animation moving across the GitHub contribution graph" />
 
 </div>
+
+The snake is redrawn from the contribution graph on a daily schedule.
+
+Open to full-stack product work, React and Next.js builds, and teams that care how the product feels and how it ships.
