@@ -35,10 +35,13 @@ Also C and C++. Coursework in data structures, object-oriented programming, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manikanta9176&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&custom_title=Activity" alt="GitHub activity for manikanta9176" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta9176&layout=donut&langs_count=6&hide_border=true&theme=github_dark&custom_title=Languages" alt="Languages on GitHub" />
+<img src="assets/stats.png" width="100%" alt="2,308 commits, 618 in the past year, 287 pull requests, 324 issues, rank B." />
 
-<img src="https://streak-stats.demolab.com/?user=manikanta9176&theme=github-dark&hide_border=true" alt="Contribution streak for manikanta9176" />
+<img src="https://streak-stats.demolab.com/?user=manikanta9176&hide_border=true&background=0D1117&ring=F0F6FC&fire=F0F6FC&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="Contribution streak since August 2022. About 8,473 contributions, current streak 3 days, longest streak 20 days." />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta9176&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&custom_title=Languages&exclude_repo=pin-hcms,contentql,ContentQL-html,dflow-builder-commands-buildpacks-test,dflow-builder-commands-dockerfile-test,dflow-builder-commands-railpack-test,wetty" alt="Languages across public repositories, excluding test and clone repos." />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manikanta9176&theme=github_dark&utcOffset=5.5" alt="Commit times in India Standard Time." />
 
 <img src="https://raw.githubusercontent.com/manikanta9176/manikanta9176/output/snake.gif" alt="Snake animation moving across the GitHub contribution graph" />
 
